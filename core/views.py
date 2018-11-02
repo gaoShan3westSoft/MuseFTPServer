@@ -4,7 +4,7 @@ import pickle
 from core.user import User
 from conf import settings
 def login(msg):
-    # wait completed
+    # wait completed later
     print(msg)
 
 def register(msg):

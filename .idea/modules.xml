@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FTPSercerDemo.iml" filepath="$PROJECT_DIR$/.idea/FTPSercerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MuseFTPServer.iml" filepath="$PROJECT_DIR$/.idea/MuseFTPServer.iml" />
     </modules>
   </component>
 </project>

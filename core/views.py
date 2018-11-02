@@ -4,6 +4,7 @@ import pickle
 from core.user import User
 from conf import settings
 def login(msg):
+    # wait completed
     print(msg)
 
 def register(msg):
@@ -17,8 +18,9 @@ def register(msg):
     return True,pickle_path
 
 def upload(msg,request):
-    # 如果这个过程 涉及到上传下载，sk
+    # wait completed
     print(msg)
 
 def download(msg):
+    # wait completed
     print(msg)
